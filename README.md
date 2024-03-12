@@ -1,4 +1,4 @@
-# DevCycle Go Server SDK Example App
+# DevCycle OpenFeature Go Server SDK Example App
 
 An example app built using the [DevCycle Go Server SDK](https://docs.devcycle.com/sdk/server-side-sdks/go/) with local bucketing
 
